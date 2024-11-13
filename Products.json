@@ -1,0 +1,27 @@
+[
+  {
+    "Product_Code": 1,
+    "Name_Code": "процессор",
+    "Price_Code": 39154
+  },
+  {
+    "Product_Code": 2,
+    "Name_Code": "видеокарта",
+    "Price_Code": 36486
+  },
+  {
+    "Product_Code": 3,
+    "Name_Code": "клавиатура",
+    "Price_Code": 3975
+  },
+  {
+    "Product_Code": 4,
+    "Name_Code": "мышь",
+    "Price_Code": 2568
+  },
+  {
+    "Product_Code": 5,
+    "Name_Code": "монитор",
+    "Price_Code": 17999
+  }
+]
